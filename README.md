@@ -22,3 +22,6 @@ BigGo is a search engine for online products in Taiwan, you can also use it thro
 * Click the extension icon on the right side of the address bar, and enter the product's name you want search for.
 
 * Select the product's name on any page, click right button to open the context menu and select
+
+## License
+[MIT License](http://opensource.org/licenses/mit-license.php)

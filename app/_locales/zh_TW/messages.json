@@ -1,0 +1,13 @@
+{
+  "appName": {
+    "message": "BigGo 小幫手",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "更方便您使用BigGo的一個工具",
+    "description": "The description of the application"
+  },
+  "menuDescription": {
+    "message": "透過 Biggo 比價「%s」"
+  }
+}

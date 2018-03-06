@@ -1,0 +1,29 @@
+body {
+  padding: 20px;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  background: url(/images/biggo_bg.jpg) no-repeat center center;
+  background-size: 100% 100%;
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  min-width:300px;
+}
+
+.title {
+  color: #fff;
+  letter-spacing: 2px;
+  margin: 0;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+  font-size: 1.5em;
+}
+
+a {
+  color: inherit;
+  cursor: pointer;
+}
+
+a:focus, a:hover {
+  outline: none;
+  text-decoration: none;
+}

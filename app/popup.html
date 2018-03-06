@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!-- build:css styles/popup-vendor.css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- build:css styles/main.css -->
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+    <link href="styles/bootstrap.min.css" rel="stylesheet">
+    <link href="styles/main.css" rel="stylesheet">
+    <!-- endbuild -->
+  </head>
+  <body>
+
+    <a id="link" ref="https://biggo.com.tw/"><span class="title">比個夠 BigGo</span></a>
+    <hr/>
+    <form>
+      <div class="input-group">
+        <input type="text" id="searchinput" width="320px" class="form-control" placeholder="搜尋..." autocomplete="off" autofocus="">
+        <span class="input-group-btn">
+            <button id="submit" class="btn btn-default" type="submit" onclick="search()">送出</button>
+        </span>
+      </div>
+    </form>
+
+    <!-- build:js scripts/popup-vendor.js -->
+    <!-- bower:js -->
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:js scripts/popup.js -->
+    <script src="scripts/popup.js"></script>
+    <!-- endbuild -->
+  </body>
+</html>

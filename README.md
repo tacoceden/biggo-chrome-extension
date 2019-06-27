@@ -13,9 +13,9 @@ BigGo is a search engine for online products in Taiwan, you can also use it thro
 ## How to install
 1. Download the source file to your computer and unzip it.
 
-2. Go to chrome://extensions/ and check the box for Developer mode in the top right.
+2. Go to chrome://extensions/ and switch on "developer mode" button on the top right of the page.
 
-3. Drag and drop the app folder on the page, or click the "Load unpacked extension" button and select the app folder, done.
+3. Drag and drop folder "install-package" on the page, or click the "Load unpacked extension" button and select "install-package" folder, then complete the installation.
 
 
 ## How to use

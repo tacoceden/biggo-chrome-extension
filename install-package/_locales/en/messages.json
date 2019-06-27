@@ -1,0 +1,13 @@
+{
+  "appName": {
+    "message": "BigGo Extension",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "A tool facilitate the way using BigGo",
+    "description": "The description of the application"
+  },
+  "menuDescription": {
+    "message": "Compare the price for「%s」"
+  }
+}
